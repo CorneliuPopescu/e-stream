@@ -1,2 +1,5 @@
-# e-stream
-Event Streaming
+# Event Streaming
+
+Event Streaming deployment
+
+- Apache Kafka
