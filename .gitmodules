@@ -1,0 +1,3 @@
+[submodule "os-layer"]
+	path = os-layer
+	url = https://github.com/CorneliuPopescu/os-layer.git
